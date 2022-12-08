@@ -2,17 +2,17 @@
 
 Binaries for use in Docker Images
 
-- [Upx]() - [More]() - `/bin/upx`
-- [tini]() - [More]() - `/bin/tini`
-- [mold]() - [More]() - `/bin/mold`
-- [tar]() - [More]() - `/bin/tar`
+- [Upx]() - [More]("./upx") - `/bin/upx`
+- [tini]() - [More]("./tini") - `/bin/tini`
+- [mold]() - [More]("./mold-bin") - `/bin/mold`
+- [tar]() - [More]("./tar") - `/bin/tar`
 
 ### Rust Based
 
-- [xh]() - [More]() - `/bin/xh`
-- [trunk]() - [More]() - `/bin/trunk`
+- [xh]() - [More]("./xh") - `/bin/xh`
+- [trunk]() - [More]("./trunk") - `/bin/trunk`
 
 ### Python Based
 
-- [Python Pipx] - [More]()
-- [PgCli] - [More]()
+- [Python Pipx] - [More]("./python-pipx")
+- [PgCli] - [More]("./pg_cli")
