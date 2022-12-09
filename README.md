@@ -10,7 +10,7 @@ Binaries for use in Docker Images
 
 - [tars](https://hub.docker.com/r/volf52/tars) - [More](github.com/volf52/tars) - `/bin/tars`
 - [xh](https://hub.docker.com/r/volf52/xh) - [More](./xh) - `/bin/xh`
-- [trunk]() - [More](./trunk) - `/bin/trunk`
+- [trunk](https://hub.docker.com/r/volf52/rust-trunk) - [More](./trunk) - `/bin/trunk`
 - [cargo-chef](https://hub.docker.com/r/volf52/cargo-chef) - [More](./cargo-chef) - `/bin/cargo-chef`
 
 ### Python Based
