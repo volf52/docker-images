@@ -15,6 +15,7 @@ COPY --from=getTini /tini /tini
 RUN /bin/upx --best --lzma -o tini_min /tini
 
 FROM scratch
+
 COPY --from=compressor /tini_min /bin/tini
 
 CMD ["/bin/tini", "--version"]

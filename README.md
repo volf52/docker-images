@@ -2,9 +2,9 @@
 
 Binaries for use in Docker Images
 
-- [Upx]() - [More](./upx) - `/bin/upx`
-- [tini]() - [More](./tini) - `/bin/tini`
-- [mold]() - [More](./mold-bin) - `/bin/mold`
+- [Upx](https://hub.docker.com/r/volf52/upx-minimal) - [More](./upx) - `/bin/upx`
+- [tini](https://hub.docker.com/r/volf52/tini) - [More](./tini) - `/bin/tini`
+- [mold](https://hub.docker.com/r/volf52/mold-fs) - [More](./mold-bin) - `/bin/mold`
 
 ### Rust Based
 
