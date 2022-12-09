@@ -12,6 +12,7 @@ Binaries for use in Docker Images
 - [xh](https://hub.docker.com/r/volf52/xh) - [More](./xh) - `/bin/xh`
 - [trunk](https://hub.docker.com/r/volf52/rust-trunk) - [More](./trunk) - `/bin/trunk`
 - [cargo-chef](https://hub.docker.com/r/volf52/cargo-chef) - [More](./cargo-chef) - `/bin/cargo-chef`
+- [rust-wasm](https://hub.docker.com/r/volf52/rust-wasm) - [More](./rust-wasm-target) - `For use as builder stage`
 
 ### Python Based
 
